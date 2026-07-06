@@ -3,7 +3,9 @@
 Ниже собран список актуальных зеркал Stake.com на 2026 год.  
 Домены могут использоваться для доступа к Stake в разных регионах, включая WW, Россию и страны СНГ.
 
-
+![Updated](https://img.shields.io/badge/Updated-July%202026-green)
+![Status](https://img.shields.io/badge/Mirrors-Online-brightgreen)
+![Stake](https://img.shields.io/badge/Stake-2026-blue)
 ---
 
 ### 🇷🇺 RU / СНГ зеркало Stake
